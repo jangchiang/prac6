@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">prac6</string>
+    <string name="bird">bird</string>
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="happydog">happydog</string>
+    <string name="boy">boy</string>
+    <string name="baby_talk">baby_talk</string>
+    <string name="man">man</string>
+    <string name="rain">rain</string>
+    <string name="woodpecker">woodpecker</string>
+    <string name="keyboard">keyboard</string>
+    <string name="clock">clock</string>
+    <string name="wallclock">wallclock</string>
+</resources>
